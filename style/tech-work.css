@@ -1,0 +1,42 @@
+body{
+    background-color:#83c5be ;
+    text-align: center;
+
+}
+#tech-work{
+    text-align: center;
+    padding: 3%;
+}
+.tech-work{
+    border-radius: 25px;
+    margin: 5rem auto;
+    width: 20rem;
+}
+/* IT tech */
+.techno-img{
+    border-radius: 25px;
+    width: 16rem;
+    height: 10rem;
+    margin: auto;
+    padding: 10px;
+}
+
+/* IT Work */
+.work-img{
+    border-radius: 25px;
+    width: 12rem;
+    height: 12rem;
+    margin: auto;
+    padding: 10px;
+}
+
+.prof-work{
+    margin: auto;
+    margin-bottom: 3rem;
+}
+
+.prof{
+    width: 30rem;
+    margin: auto;
+
+}

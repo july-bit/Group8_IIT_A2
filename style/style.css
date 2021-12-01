@@ -1,0 +1,49 @@
+body{
+    background-color: #83c5be;
+}
+
+/* Team profile */
+#team-profile{
+    text-align: center;
+    padding: 3%;
+}
+
+.profile{
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 3rem;
+    width: 20rem;
+}
+
+.pro-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+.profile p{
+    text-align: left;
+}
+ 
+/* pages in IT tech and IT work */
+#work-tech{
+    padding: 5% 10% 10%;
+}
+#work-tech img{
+    width: 50%;
+}
+
+/* button */
+.btn1{
+    float: left;
+}
+.btn2{
+    float: right;
+}
+
+/* Project idea */
+#project-idea{
+    padding: 3%;
+}
